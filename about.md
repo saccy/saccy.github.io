@@ -8,4 +8,4 @@ Something not working? Let me know!
 
 ### Contact me
 
-[email@domain.com](mailto:saccymac@gmail.com)
+[email](mailto:saccymac@gmail.com)
