@@ -12,6 +12,11 @@ DevOps ideas and practical implementations.
 - Infrastructure automation
 - Configuration management
 
+### Contact
+
+- twitter: @the_last_saccy
+- 
+
 <!-- ### Screenshot -->
 
 <!-- ![Screenshot](screenshot.png) -->
