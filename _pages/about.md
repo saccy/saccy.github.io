@@ -15,7 +15,6 @@ DevOps ideas and practical implementations.
 ### Contact
 
 - twitter: @the_last_saccy
-- 
 
 <!-- ### Screenshot -->
 
