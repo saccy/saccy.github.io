@@ -1,20 +1,19 @@
 ---
 layout: page
-title: About
+title: about hud
 ---
 
-DevOps ideas and practical implementations.
+### headsup.dev // practical devops.
 
-### Services
+### professional services
+> pipeline development <br>
+> architecture and design <br>
+> cloud and infrastructure engineering <br>
+> configuration management <br>
 
-- Pipeline development
-- Architecture
-- Infrastructure automation
-- Configuration management
-
-### Contact
-
-- twitter: @the_last_saccy
+### contact
+> twitter: @the_last_saccy <br>
+> email: andrew@headsup.dev <br>
 
 <!-- ### Screenshot -->
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Automation is time consuming
-description: Automation is time consuming
-summary: Good automation is software that takes just as long to develop as other software
+title: Automating is a manual process
+description: Automating is a manual process
+summary: Good automation code is software that needs attention to detail
 comments: true
 tags: [cicd]
 ---
