@@ -14,6 +14,6 @@ title: about hud
 
 ### contact
 > twitter: @the_last_saccy<br>
-> email: andrew@headsup.dev<br>
+> email: accounts@headsup.dev<br>
 
 <!-- ![Screenshot](screenshot.png) -->
