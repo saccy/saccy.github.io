@@ -7,12 +7,12 @@ comments: true
 tags: [cicd, jenkins, groovy, naming, convention, pipeline]
 ---
 
-Naming conventions go a long way in mainting a clean environment for your developers and infra team. All CICD tools (Jenkins, bamboo, ADO etc.) publish environment variables that are available for use within your pipeline code. The variable names vary between tools but you can manipulate them in the same way. One such example is the name of your pipeline, normally something like `BUILD_NAME`.
+Naming conventions go a long way in maintaining a clean environment for your developers and infra team. All CICD tools (Jenkins, bamboo, ADO etc.) publish environment variables that are available for use within your pipeline code. The variable names vary between tools but you can manipulate them in the same way. One such example is the name of your pipeline, normally something like `BUILD_NAME`.
 
 These names are a powerful way of making your pipeline code dynamic and for reducing repo clutter. By defining a naming convention for your pipelines and engineering your code around this convention you can save your business time and reduce the inherent risk in deploying changes.
 <br>
 
-Lets make the assumptions that we are using <a href="https://www.jenkins.io" target="_blank">Jenkins</a> as our CICD tool and we are developing our pipeline code with <a href="https://groovy-lang.org" target="_blank">groovy</a>
+Lets make the assumptions that we are using <a href="https://www.jenkins.io" target="_blank">Jenkins</a> as our CICD tool and we are developing our pipeline code with <a href="https://groovy-lang.org" target="_blank">groovy</a>.
 <br>
 
 Consider this simple naming convention for a jenkins job that deploys docker containers:
@@ -43,9 +43,9 @@ A major benefit to developing your pipeline code like this is that you can simpl
 <br>
 
 **Keep this information in mind when defining naming conventions:**
-- Pipeline names can hold a lot of vauable information.
+- Pipeline names can hold a lot of valuable information.
 - Naming conventions should be *code* friendly i.e. no whitespace, no case, no special characters.
-- Naming conventions should be *human* readable i.e. succint and logical.
+- Naming conventions should be *human* readable i.e. succinct and logical.
 - Avoid randomisation and iterations for the sake of uniqueness as this wastes real estate, i.e `pipeline0`, `pipeline1`.
 - What if I want to use my code outside a pipeline? Consider writing in some cmd line flags so that you can input the vars you need instead of hardcoding pipeline env vars within your script.
 - Once you come up with a convention you need to adhere to it so work with your team, document your solution and if you feel crazy enough, write a compliance test for your pipeline name.

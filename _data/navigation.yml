@@ -1,7 +1,9 @@
 links:
 - title: blog
   url: /
-- title: about
-  url: /about
+- title: projects
+  url: /projects
 - title: search
   url: /search
+- title: about
+  url: /about
