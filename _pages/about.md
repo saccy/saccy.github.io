@@ -3,7 +3,8 @@ layout: page
 title: about hud
 ---
 
-### headsup.dev // practical devops.
+### headsup.dev // practical devops
+Headsup.dev is focussed on providing practical DevOps and automation expertise. 
 
 ### professional services
 > devops and automation<br>
@@ -14,6 +15,6 @@ title: about hud
 
 ### contact
 > twitter: @the_last_saccy<br>
-> email: andrew@headsup.dev<br>
+> email: contact@headsup.dev<br>
 
 <!-- ![Screenshot](screenshot.png) -->
