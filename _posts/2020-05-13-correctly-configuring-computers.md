@@ -7,7 +7,6 @@ comments: true
 tags: [configuration, management, chef, puppet, ansible, sysadmin]
 ---
 
-### Conundrum or crapshoot?
 Configuration management is really an essential part of system administration, but that's not to imply that it should be relegated to sysadmins to have exclusive control of it. In fact config management is the perfect poster child for DevOps. What better way to bring development and operations together?
 
 You probably know it doesn’t quite work that way in practice in many organisations. You’ll get sysadmins who are intimidated or disinterested in the as-code aspect and devs that are intimidated or disinterested in the infra aspect. From this melting pot of socially awkward outrage was born the DevOps engineer, a most peculiar and confused breed indeed. Whether you’re one who challenges the legitimacy of DevOps engineers or not, the fact remains that they are a not so new normal, and the task of developing your orgs config management code is theirs.
